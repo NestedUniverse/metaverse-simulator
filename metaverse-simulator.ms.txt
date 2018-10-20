@@ -1,4 +1,5 @@
 import timeunits;
+import Amazon.
 
 for i (1 .. 10^20) {
 	metaverse[].insert(spawn(object('universe', 'G->rand()', 'theta->rand()'), callbackafterdelay(rand(10^80, timeunit, callbackfunc(me)))_;
