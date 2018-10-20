@@ -1,0 +1,15 @@
+import timeunits;
+
+for i (1 .. 10^20) {
+	metaverse[].insert(spawn(object('universe', 'G->rand()', 'theta->rand()'), callbackafterdelay(rand(10^80, timeunit, callbackfunc(me)))_;
+}
+
+callbackfuc(obj) {
+	if (measure('sentient entities', obj) > average(measure('sentient entities', metaverse[])) {
+		obj.time-remaining = rand(10^80, timeunits.planck);
+		obj.resume();
+	} else {
+		obj.reap();
+	}
+}
+	
