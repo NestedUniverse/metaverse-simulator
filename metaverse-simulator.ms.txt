@@ -1,5 +1,10 @@
+# October 20, 2045
+# Version 0.1
+# Christopher K. Haley
+
 import timeunits;
-import Amazon.
+import Amazon.ElasticUniverseEV2.libraries;
+import Microsoft.VisualStudio.M#.libraries.
 
 for i (1 .. 10^20) {
 	metaverse[].insert(spawn(object('universe', 'G->rand()', 'theta->rand()'), callbackafterdelay(rand(10^80, timeunit, callbackfunc(me)))_;
@@ -14,5 +19,5 @@ callbackfunc(obj) {
 	}
 }
 
-# Almost done. Need to finish building several functions here
+# Almost done. Just need to finish building a few functions here. I'm pressed for time and will document these later.
 # --Chris
